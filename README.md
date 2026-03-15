@@ -18,24 +18,18 @@
 
 ## Lampiran
 
-### 1. Part Plate
+## Lampiran
 
-#### Plate Part
-![Plate Part ](Screenshot_2026-03-15_213856.png)
+### 1. Part Plate
+![Plate Part](plate.png)
 
 ### 2. Part Tool Block
-
-#### Tool Block Part
-![Tool Block](Screenshot_2026-03-15_232223.png)
+![Tool Block](toolblock.png)
 
 ### 3. Part Tank
-
-#### Tank Part
-![Part Tank](Screenshot_2026-03-15_164233.png)
+![Tank Part](tank.png)
 
 ### 4. Part Wheel
-
-#### Wheel Part
-![Wheel Part](Screenshot_2026-03-15_222339.png)
+![Wheel Part](wheel.png)
 
 ### 5. Part Bracket
