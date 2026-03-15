@@ -21,21 +21,21 @@
 ### 1. Part Plate
 
 #### Plate Part
-![Plate Part ](Screenshot 2026-03-15 213856.png)
+![Plate Part ](Screenshot_2026-03-15_213856.png)
 
 ### 2. Part Tool Block
 
 #### Tool Block Part
-![Tool Block](Screenshot 2026-03-15 232223.png)
+![Tool Block](Screenshot_2026-03-15_232223.png)
 
 ### 3. Part Tank
 
 #### Tank Part
-![Part Tank](Screenshot 2026-03-15 164233.png)
+![Part Tank](Screenshot_2026-03-15_164233.png)
 
 ### 4. Part Wheel
 
 #### Wheel Part
-![Wheel Part](Screenshot 2026-03-15 222339.png)
+![Wheel Part](Screenshot_2026-03-15_222339.png)
 
 ### 5. Part Bracket
