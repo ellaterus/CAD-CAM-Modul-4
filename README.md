@@ -18,8 +18,6 @@
 
 ## Lampiran
 
-## Lampiran
-
 ### 1. Part Plate
 ![Plate Part](plate.png)
 
