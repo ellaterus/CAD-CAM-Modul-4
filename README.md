@@ -31,3 +31,4 @@
 ![Wheel Part](wheel.png)
 
 ### 5. Part Bracket
+![Bracket Part](bracket.png)
